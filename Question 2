@@ -1,5 +1,3 @@
-# SimplyFI-Assignment Question 2
-
 def min_players_to_shot(n, k, heights):
     line_of_sight = max(n, k)
     max_height = 0
